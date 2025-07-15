@@ -1,8 +1,8 @@
-# textbook_archieve
+# textbook_archive
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-The textbooks used in UTM courses that I personally took and used.
+The textbooks used in UTM courses that we took.
 
 #### Contributing
 
